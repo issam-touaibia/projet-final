@@ -1,0 +1,38 @@
+.footer a{
+    color:#ffffff;
+    text-decoration: none !important;
+}
+
+.footer a:hover{
+    color:gray
+}
+/* .container{
+    display: flex;
+    justify-content: space-around;
+} */
+section{
+    /* position: fixed; */
+    width: 100%;
+    bottom: 0;
+     /* height: 100%; */
+    /* background-color: red;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px; */
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+h6{
+    margin-left: 30%;
+    /* color: orangered; */
+}
+.links{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin-left: 10%;
+}

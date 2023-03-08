@@ -1,0 +1,22 @@
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 5%;
+    margin-right: 8%;
+    margin-left: 8%;
+    padding-bottom: 8%;
+    align-items: center;
+    /* position: relative; */
+
+    /* justify-content: center; */
+    /* padding: 1rem; */
+    /* margin-bottom: 8%; */
+}
+.title{
+    border-bottom: 1px solid rgba(30, 32, 30, 0.171);
+    width: 15vw;
+    margin: 2vmax auto;
+    font:500 1.5vmax "Roboto";
+    text-align: center;
+}

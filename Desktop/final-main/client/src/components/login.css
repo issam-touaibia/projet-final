@@ -1,0 +1,92 @@
+
+
+.Auth-form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+
+.Auth-form {
+  width: 520px;
+  height: 450px;
+  box-shadow: rgba(34, 35, 1, 0.16) 1px 1px 10px;
+  padding-top: 50px;
+  /* padding-left: 40px; */
+  padding-bottom: 70px;
+  border-radius: 30px;
+  background-color: rgba(245, 194, 75, 0.111);
+}
+
+.Auth-form-content {
+  padding-left: 20%;
+  padding-right: 20%;
+  /* padding-bottom: 40%; */
+}
+
+.Auth-form-title {
+  text-align: center;
+  margin-bottom: 2em;
+  font-size: 30px;
+  color: rgb(34, 34, 34);
+  font-weight: 600;
+}
+
+label {
+  font-size: 20px;
+  font-weight: 500;
+  color: rgb(34, 34, 34);
+  /* padding: 5px; */
+  margin-right: 0.5em;
+  margin-left: -5%;
+  /* margin-top: 2%; */
+}
+/* .form-group {
+  display: flex;
+  row-gap: 10px;
+} */
+.form-group {
+  margin-top : 10px;
+  margin-bottom: 10px;
+}
+body{
+  background-color:#ffffff;
+}
+
+/* CSS */
+.button-1 {
+  text-align: center;
+  background-color:  #82b5f0;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  outline: none;
+  padding: 10px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  vertical-align: baseline;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-left: 43%;
+  margin-top: 3%;
+}
+
+.button-1:hover,
+.button-1:focus {
+  background-color: #f36c0bd4;
+}

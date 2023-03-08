@@ -1,0 +1,21 @@
+/* @import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+*
+{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: 'Poppins',sans-serif;
+}
+body {
+  background: #000;
+  min-height:100vh;
+} */
+.banner{
+  background-image :url("https://boutique-vegetale.com/wp-content/uploads/2010/12/michelia-champaca-fleurs02.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-Position: center;
+  height: 100vh;
+  width: 100%;
+  position :relative
+}

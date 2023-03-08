@@ -1,0 +1,60 @@
+
+
+p{
+    font-size: 14px;
+    color:#ffffff;
+}
+.section {
+    padding-top:40px;
+    padding-bottom: 40px;
+}
+.main-heading {
+    color: rgb(102, 93, 159);
+    font-size:26px ;
+    padding-top: 5%;
+    /* text-align: center; */
+}
+.underline {
+    height: 04px;
+    width: 4rem;
+    background-color: #202543;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}  
+
+.bg-c-light{
+    background-color: #202543;
+}
+.Products{
+    display: flex;
+    justify-content: space-between;
+    padding: 5%;
+    
+}
+.card {
+    width : 400px; 
+    height: 600px;
+}
+.vmv{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 20px;
+    
+    
+  
+}
+.col-md-12{
+    margin-top :5%
+}
+
+.vmv{
+    color: rgb(100, 82, 148);
+}
+
+.carousel-inner{
+    background-color: rgb(251, 249, 250);
+}
+.navbar{
+    background-color: #202543;
+    color: rgb(255, 255, 255);
+}
